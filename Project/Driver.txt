@@ -1,0 +1,78 @@
+12345699,C,Cathy,Smith,157/2 Shingle Lane,Campsie,2194,15,Suspended
+12345742,C,Amos,Kitow,6 Swamp Lane,Miranda,2228,14,Suspended
+12345707,C,Ida,Down,21 High Street,Miranda,2228,13,Suspended
+12345738,C,Dwayne,Pipes,56 Park Ave,Rockdale,2216,13,Suspended
+12345693,C,Juan,Moment,119 Moira Way,Miranda,2228,13,Suspended
+12345687,MR,Mel,Lowe,102 Penny Lane,Campsie,2194,10,Valid
+12345721,C,Barb,Dwyer,33 Kemp Street,Rockdale,2216,10,Valid
+12345684,C,Samuel,Case,10 Parkway Cres,Parramatta,2150,9,Valid
+12345725,C,Paige,Turner,356 Book Lane,Canterbury,2193,9,Valid
+12345730,C,Lou,Pole,437 Merideth Street,Miranda,2228,8,Valid
+12345733,C,Amy,Stake,52 Florida Ave,Bondi Junction,2022,8,Valid
+12345741,C,Jaqueline,Hyde,59 Park Ave,Cronulla,2230,7,Valid
+12345695,C,Anna,Rack,123 Williams Drive,Leppington,2179,6,Valid
+12345708,CR,Flo,Tinaway,21 River Road,Miranda,2228,6,Valid
+12345705,C,Elizabeth,Turner,19 Tallship Drive,Glebe,2037,6,Valid
+12345682,CR,Evelyn,Tent,10 Montrose Road,Leppington,2179,3,Valid
+12345717,C,Izzy,Back,27 Happy Street,Cronulla,2230,1,Valid
+12345750,C,Horace,Cope,76 Princeton Ave,Bankstown,2200,1,Valid
+12345696,C,Robert,Smith,14 Lygon Street,Arncliffe,2205,0,Valid
+12345697,C,Harrison,Fire,15 Bryson Ave,Fairfield,2165,0,Valid
+12345698,C,Carrie,Micote,153 Jacket Road,Arncliffe,2205,0,Valid
+12345683,C,Peter,Case,10 Parkway Cres,Parramatta,2150,0,Valid
+12345700,C,Alan,Quay,16 Hex Place,Penrith,2750,0,Valid
+12345701,MR,Jay,Walker,16 Jacaranda Drive,Eaglevale,2560,0,Valid
+12345702,C,Hughe,DeMann,17 Brunker Drive,Miranda,2228,0,Valid
+12345703,C,Thomas,Smith,1834 Lygon Street,Arncliffe,2205,0,Valid
+12345704,C,Tim,Smith,19 Lygon Street,Arncliffe,2205,0,Valid
+12345679,CR,Chester,Minit,1 Rae Cres,Bondi Junction,2022,0,Valid
+12345706,C,Ben,Down,21 High Street,Miranda,2228,0,Valid
+12345685,C,Lou,Stooth,10 Penny Lane,Parramatta,2150,0,Valid
+12345686,C,Bjorn,Dajoak,100 Humour Street,Fairfield,2165,0,Valid
+12345709,C,Samuel,Smith,210 River Road,Glebe,2037,0,Valid
+12345710,C,Emma,Fraid,212 Screaming Street,Miranda,2228,0,Valid
+12345711,C,Ellis,Dee,23 High Street,Eaglevale,2560,0,Valid
+12345712,C,Bill,Ding,23 House Street,Campsie,2194,0,Valid
+12345713,CR,Ayma,Moron,23 Janet Street,Leppington,2179,0,Valid
+12345714,C,Gill,Tedd,230 Everton Road,Bondi Junction,2022,0,Valid
+12345715,C,Ben,Dover,27 Bent Road,Glebe,2037,0,Valid
+12345716,C,Helen,Back,27 Happy Street,Cronulla,2230,0,Valid
+12345680,C,Cody,Pendant,10 Belford Street,Campsie,2194,0,Valid
+12345718,C,Joel,Rebocks,3 Benny Cres,Bankstown,2200,0,Valid
+12345719,C,Eve,Hill,3 Park Ave,Rockdale,2216,0,Valid
+12345720,C,Emma,Grates,32 Melissa Ave,Bondi Junction,2022,0,Valid
+12345688,C,Dina,Phirst,103 City Road,Cronulla,2230,0,Valid
+12345722,C,Holly,Dayin,34 Donald Drive,Rockdale,2216,0,Valid
+12345723,C,Pam,Smith,34 Lygon Street,Arncliffe,2205,0,Valid
+12345724,C,Mick,Stup,354 Far West Drive,Glebe,2037,0,Valid
+12345689,CR,Simone,Brown,1089 Long Road,Rockdale,2216,0,Valid
+12345726,C,Bev,Ridge,4 Monitor Road,Campsie,2194,0,Valid
+12345727,C,Georgie,Turner,423 Pacific Road,Arncliffe,2205,0,Valid
+12345728,C,William,Turner,423 Pacific Road,Arncliffe,2205,0,Valid
+12345729,C,Ike,Entell,432 Madison Drive,Miranda,2228,0,Valid
+12345690,C,Basil,Smithers,1089 Long Road,Rockdale,2216,0,Valid
+12345731,C,Anita,Bath,44 Mears Road,Miranda,2228,0,Valid
+12345732,C,Dee,Zaster,51 Hurricane Way,Rockdale,2216,0,Valid
+12345691,C,Lee,Vitoff,11 Cowpasture Road,Leppington,2179,0,Valid
+12345734,C,Hugo,First,54 Trent Street,Leppington,2179,0,Valid
+12345735,C,Illay,Downe,543/12 Bents Road,Rockdale,2216,0,Valid
+12345736,C,Beau,Vine,544 Wilton Street,Miranda,2228,0,Valid
+12345737,C,Cybil,Wrights,554 Madison Drive,Cronulla,2230,0,Valid
+12345692,C,Tim,Smith,114 Lygon Street,Arncliffe,2205,0,Valid
+12345739,C,Hugh,Manatee,567 Indian Ocean Road,Glebe,2037,0,Valid
+12345740,C,Richard,Whyte,57 Straight Street,Cronulla,2230,0,Valid
+12345681,CR,Laura,Norder,10 Law Lane,Bankstown,2200,0,Valid
+12345694,C,Neil,Downe,12 Kneeling Way,Cronulla,2230,0,Valid
+12345743,C,Samantha,Brown,62 Highland Way,Arncliffe,2205,0,Valid
+12345744,C,Cameron,Smith,65 Lygon Street,Arncliffe,2205,0,Valid
+12345745,C,Kay,Oss,66 Ridge Street,Rockdale,2216,0,Valid
+12345746,C,Adam,Sapple,67 Kemp Street,Rockdale,2216,0,Valid
+12345747,C,Justin,Case,67 Plan Circuit,Bondi Junction,2022,0,Valid
+12345748,C,Lee,Nover,7 Russell Ave,Fairfield,2165,0,Valid
+12345749,C,Casey,Deeya,71 Princess Road,Campsie,2194,0,Valid
+12345678,C,Bill,Board,1 Faul Street,Fairfield,2165,0,Valid
+12345751,C,Carrie,Dowt,8 Cynthia Way,Bondi Junction,2022,0,Valid
+12345752,C,Meghan,Smith,81 Small Place,Arncliffe,2205,0,Valid
+12345753,C,Noah,Count,87 Terence Street,Cronulla,2230,0,Valid
+12345754,C,Jim,Pansey,871 Murray Street,Bondi Junction,2022,0,Valid
+12345755,C,Ann,Teek,99 Brunker Drive,Miranda,2228,0,Valid
